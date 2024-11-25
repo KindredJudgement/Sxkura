@@ -1,0 +1,2 @@
+AKU = "countries/Akurria.txt"
+TST = "countries/Test.txt"

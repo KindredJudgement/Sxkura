@@ -1,0 +1,35 @@
+ideas = {
+	mobilization_laws = {
+}
+	economy = {
+}
+	political_advisor = {
+		lady_henata = {
+			allowed = {
+				tag = AKU
+			}
+			traits = { great_architect first_lady hawk permanent_revolutionary fascist_sympathies popular_figurehead2}
+			picture = "uJzCXvlS-761026"
+		}
+}
+	tank_manufacturer = {
+}
+	naval_manufacturer = {
+}
+	aircraft_manufacturer = {
+}
+	materiel_manufacturer = {
+}
+	industrial_concern = {
+}
+	theorist = {
+}
+	army_chief = {
+}
+	navy_chief = {
+}
+	air_chief = {
+}
+	high_command = {
+}
+}

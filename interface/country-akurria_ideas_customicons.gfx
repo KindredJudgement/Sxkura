@@ -1,0 +1,9 @@
+spriteTypes = { 
+	##Icon For: Lady Henata
+	SpriteType = { 
+		name = "uJzCXvlS-761026"
+		texturefile = "gfx/interface/ideas/AKU/uJzCXvlS-761026.dds"
+	}
+
+ 
+ }

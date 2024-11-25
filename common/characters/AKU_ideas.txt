@@ -1,0 +1,17 @@
+characters = {	lady_henata = {
+		name = lady_henata
+		portraits = {
+			army = {
+			small = "gfx/interface/ideas/AKU/uJzCXvlS-761026.dds"
+			}
+		}
+		advisor = {
+			slot = political_advisor
+			idea_token = lady_henata
+			allowed = {
+				original_tag = AKU
+			}
+			traits = { great_architect first_lady hawk permanent_revolutionary fascist_sympathies popular_figurehead2}
+		}
+	}
+}

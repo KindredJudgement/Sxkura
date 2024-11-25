@@ -1,0 +1,23 @@
+focus_tree = {
+	id = akurrian-focus
+	continuous_focus_position = { x = 150 y = 1050 } 
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = AKU
+		}
+	}
+	#Akurriosa
+	focus = {
+		id = AKU_akurriosa
+		icon = GFX_AKU_akurriosa-761027
+		x = 10
+		y = 8
+		cost = 1
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+	}
+
+}
